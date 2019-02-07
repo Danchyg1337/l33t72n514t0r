@@ -5,7 +5,7 @@ For toLEET button used 'abc.txt' file. It takes random letter.
 For toENG button used all others .txt files. 
 Order: qwe.txt -> rty.txt -> uio.txt;
 Line will be decoded in order of files.
-|e€+ t2/-\^/$14t()r - input;
+|e€+ t2/-\^/$14t()r - input;\n
 |eet t2/-\^/s1at()r - after qwe.txt;
 |eet t2ans1ator - after rty.txt;
 leet transiator - after uio.txt;
